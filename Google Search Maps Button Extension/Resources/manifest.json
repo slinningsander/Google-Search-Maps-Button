@@ -20,7 +20,7 @@
 
     "content_scripts": [{
         "js": [ "content.js" ],
-        "matches": [ "*://example.com/*" ]
+        "matches": ["*://*.google.com/*", "*://google.com/*"]
     }],
 
     "action": {
@@ -35,5 +35,5 @@
         }
     },
 
-    "permissions": [ ]
+    "permissions": ["*://*.google.com/*", "*://google.com/*"]
 }
