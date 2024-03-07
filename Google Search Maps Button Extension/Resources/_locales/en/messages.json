@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Google Search Maps Button Extension",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "This is Google Search Maps Button Extension. You should tell us what your extension does here.",
+        "description": "Description of what the extension does."
+    }
+}
