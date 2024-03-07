@@ -25,9 +25,6 @@
 		5C8406B62B99CEC3000F26C2 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B52B99CEC3000F26C2 /* manifest.json */; };
 		5C8406B82B99CEC3000F26C2 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B72B99CEC3000F26C2 /* background.js */; };
 		5C8406BA2B99CEC3000F26C2 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B92B99CEC3000F26C2 /* content.js */; };
-		5C8406BC2B99CEC3000F26C2 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406BB2B99CEC3000F26C2 /* popup.html */; };
-		5C8406BE2B99CEC3000F26C2 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406BD2B99CEC3000F26C2 /* popup.css */; };
-		5C8406C02B99CEC3000F26C2 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406BF2B99CEC3000F26C2 /* popup.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,9 +89,6 @@
 		5C8406B52B99CEC3000F26C2 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
 		5C8406B72B99CEC3000F26C2 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
 		5C8406B92B99CEC3000F26C2 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
-		5C8406BB2B99CEC3000F26C2 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
-		5C8406BD2B99CEC3000F26C2 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
-		5C8406BF2B99CEC3000F26C2 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
 		5C8406C12B99CEC3000F26C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C8406C22B99CEC3000F26C2 /* Google_Search_Maps_Button_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Google_Search_Maps_Button_Extension.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -214,9 +208,6 @@
 				5C8406B52B99CEC3000F26C2 /* manifest.json */,
 				5C8406B72B99CEC3000F26C2 /* background.js */,
 				5C8406B92B99CEC3000F26C2 /* content.js */,
-				5C8406BB2B99CEC3000F26C2 /* popup.html */,
-				5C8406BD2B99CEC3000F26C2 /* popup.css */,
-				5C8406BF2B99CEC3000F26C2 /* popup.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -376,13 +367,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C8406B82B99CEC3000F26C2 /* background.js in Resources */,
-				5C8406BE2B99CEC3000F26C2 /* popup.css in Resources */,
-				5C8406BC2B99CEC3000F26C2 /* popup.html in Resources */,
 				5C8406B42B99CEC3000F26C2 /* images in Resources */,
 				5C8406B62B99CEC3000F26C2 /* manifest.json in Resources */,
 				5C8406B22B99CEC3000F26C2 /* _locales in Resources */,
 				5C8406BA2B99CEC3000F26C2 /* content.js in Resources */,
-				5C8406C02B99CEC3000F26C2 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

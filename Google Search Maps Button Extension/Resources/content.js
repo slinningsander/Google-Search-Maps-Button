@@ -34,7 +34,7 @@ function addMapsButton(currentSearchTerm) {
         buttonContentDiv.appendChild(buttonTextSpan);
         mapsButton.appendChild(buttonContentDiv);
         wrapperDiv.appendChild(mapsButton);
-        targetDiv.appendChild(wrapperDiv);
+        targetDiv.insertBefore(wrapperDiv,targetDiv.firstChild);
     }
 }
 
