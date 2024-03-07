@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C030FC02B9A146900CD3B1B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C030FBF2B9A146900CD3B1B /* Icon.png */; };
 		5C84067B2B99CEC1000F26C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C84067A2B99CEC1000F26C2 /* AppDelegate.swift */; };
 		5C84067F2B99CEC1000F26C2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5C84067E2B99CEC1000F26C2 /* Base */; };
-		5C8406812B99CEC1000F26C2 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406802B99CEC1000F26C2 /* Icon.png */; };
 		5C8406832B99CEC1000F26C2 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406822B99CEC1000F26C2 /* Style.css */; };
 		5C8406852B99CEC1000F26C2 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406842B99CEC1000F26C2 /* Script.js */; };
 		5C8406872B99CEC1000F26C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406862B99CEC1000F26C2 /* ViewController.swift */; };
@@ -69,10 +69,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5C030FBF2B9A146900CD3B1B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		5C8406772B99CEC1000F26C2 /* Google Search Maps Button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Google Search Maps Button.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C84067A2B99CEC1000F26C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C84067E2B99CEC1000F26C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
-		5C8406802B99CEC1000F26C2 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		5C8406822B99CEC1000F26C2 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
 		5C8406842B99CEC1000F26C2 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
 		5C8406862B99CEC1000F26C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -171,7 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				5C84067D2B99CEC1000F26C2 /* Main.html */,
-				5C8406802B99CEC1000F26C2 /* Icon.png */,
+				5C030FBF2B9A146900CD3B1B /* Icon.png */,
 				5C8406822B99CEC1000F26C2 /* Style.css */,
 				5C8406842B99CEC1000F26C2 /* Script.js */,
 			);
@@ -348,7 +348,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C8406812B99CEC1000F26C2 /* Icon.png in Resources */,
+				5C030FC02B9A146900CD3B1B /* Icon.png in Resources */,
 				5C8406852B99CEC1000F26C2 /* Script.js in Resources */,
 				5C84067F2B99CEC1000F26C2 /* Base in Resources */,
 				5C8406832B99CEC1000F26C2 /* Style.css in Resources */,
