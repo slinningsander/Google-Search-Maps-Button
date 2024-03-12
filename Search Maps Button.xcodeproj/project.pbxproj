@@ -15,7 +15,7 @@
 		5C8406872B99CEC1000F26C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406862B99CEC1000F26C2 /* ViewController.swift */; };
 		5C84068A2B99CEC1000F26C2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406892B99CEC1000F26C2 /* Base */; };
 		5C84068C2B99CEC2000F26C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C84068B2B99CEC2000F26C2 /* Assets.xcassets */; };
-		5C8406AA2B99CEC3000F26C2 /* Google Search Maps Button Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		5C8406AA2B99CEC3000F26C2 /* Search Maps Button Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5C8406A92B99CEC3000F26C2 /* Search Maps Button Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		5C8406AF2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406AE2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift */; };
 		5C8406B22B99CEC3000F26C2 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B12B99CEC3000F26C2 /* _locales */; };
 		5C8406B42B99CEC3000F26C2 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B32B99CEC3000F26C2 /* images */; };
@@ -54,7 +54,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				5C8406AA2B99CEC3000F26C2 /* Google Search Maps Button Extension.appex in Embed Foundation Extensions */,
+				5C8406AA2B99CEC3000F26C2 /* Search Maps Button Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -63,7 +63,7 @@
 
 /* Begin PBXFileReference section */
 		5C030FBF2B9A146900CD3B1B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		5C8406772B99CEC1000F26C2 /* Google Search Maps Button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Google Search Maps Button.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C8406772B99CEC1000F26C2 /* Search Maps Button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Search Maps Button.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C84067A2B99CEC1000F26C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C84067E2B99CEC1000F26C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
 		5C8406822B99CEC1000F26C2 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
@@ -73,9 +73,9 @@
 		5C84068B2B99CEC2000F26C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C84068D2B99CEC2000F26C2 /* Google_Search_Maps_Button.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Google_Search_Maps_Button.entitlements; sourceTree = "<group>"; };
 		5C84068E2B99CEC2000F26C2 /* Google Search Maps Button.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Google Search Maps Button.entitlements"; sourceTree = "<group>"; };
-		5C8406932B99CEC3000F26C2 /* Google Search Maps ButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Google Search Maps ButtonTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5C84069D2B99CEC3000F26C2 /* Google Search Maps ButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Google Search Maps ButtonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Google Search Maps Button Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C8406932B99CEC3000F26C2 /* Search Maps ButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Search Maps ButtonTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C84069D2B99CEC3000F26C2 /* Search Maps ButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Search Maps ButtonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C8406A92B99CEC3000F26C2 /* Search Maps Button Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Search Maps Button Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C8406AE2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
 		5C8406B12B99CEC3000F26C2 /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _locales; sourceTree = "<group>"; };
 		5C8406B32B99CEC3000F26C2 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
@@ -129,10 +129,10 @@
 		5C8406782B99CEC1000F26C2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5C8406772B99CEC1000F26C2 /* Google Search Maps Button.app */,
-				5C8406932B99CEC3000F26C2 /* Google Search Maps ButtonTests.xctest */,
-				5C84069D2B99CEC3000F26C2 /* Google Search Maps ButtonUITests.xctest */,
-				5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */,
+				5C8406772B99CEC1000F26C2 /* Search Maps Button.app */,
+				5C8406932B99CEC3000F26C2 /* Search Maps ButtonTests.xctest */,
+				5C84069D2B99CEC3000F26C2 /* Search Maps ButtonUITests.xctest */,
+				5C8406A92B99CEC3000F26C2 /* Search Maps Button Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -187,9 +187,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5C8406762B99CEC1000F26C2 /* Google Search Maps Button */ = {
+		5C8406762B99CEC1000F26C2 /* Search Maps Button */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5C8406C92B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps Button" */;
+			buildConfigurationList = 5C8406C92B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps Button" */;
 			buildPhases = (
 				5C8406732B99CEC1000F26C2 /* Sources */,
 				5C8406742B99CEC1000F26C2 /* Frameworks */,
@@ -201,14 +201,14 @@
 			dependencies = (
 				5C8406AC2B99CEC3000F26C2 /* PBXTargetDependency */,
 			);
-			name = "Google Search Maps Button";
+			name = "Search Maps Button";
 			productName = "Google Search Maps Button";
-			productReference = 5C8406772B99CEC1000F26C2 /* Google Search Maps Button.app */;
+			productReference = 5C8406772B99CEC1000F26C2 /* Search Maps Button.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5C8406922B99CEC3000F26C2 /* Google Search Maps ButtonTests */ = {
+		5C8406922B99CEC3000F26C2 /* Search Maps ButtonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5C8406CC2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps ButtonTests" */;
+			buildConfigurationList = 5C8406CC2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps ButtonTests" */;
 			buildPhases = (
 				5C84068F2B99CEC3000F26C2 /* Sources */,
 				5C8406902B99CEC3000F26C2 /* Frameworks */,
@@ -219,14 +219,14 @@
 			dependencies = (
 				5C8406952B99CEC3000F26C2 /* PBXTargetDependency */,
 			);
-			name = "Google Search Maps ButtonTests";
+			name = "Search Maps ButtonTests";
 			productName = "Google Search Maps ButtonTests";
-			productReference = 5C8406932B99CEC3000F26C2 /* Google Search Maps ButtonTests.xctest */;
+			productReference = 5C8406932B99CEC3000F26C2 /* Search Maps ButtonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5C84069C2B99CEC3000F26C2 /* Google Search Maps ButtonUITests */ = {
+		5C84069C2B99CEC3000F26C2 /* Search Maps ButtonUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5C8406CF2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps ButtonUITests" */;
+			buildConfigurationList = 5C8406CF2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps ButtonUITests" */;
 			buildPhases = (
 				5C8406992B99CEC3000F26C2 /* Sources */,
 				5C84069A2B99CEC3000F26C2 /* Frameworks */,
@@ -237,14 +237,14 @@
 			dependencies = (
 				5C84069F2B99CEC3000F26C2 /* PBXTargetDependency */,
 			);
-			name = "Google Search Maps ButtonUITests";
+			name = "Search Maps ButtonUITests";
 			productName = "Google Search Maps ButtonUITests";
-			productReference = 5C84069D2B99CEC3000F26C2 /* Google Search Maps ButtonUITests.xctest */;
+			productReference = 5C84069D2B99CEC3000F26C2 /* Search Maps ButtonUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-		5C8406A82B99CEC3000F26C2 /* Google Search Maps Button Extension */ = {
+		5C8406A82B99CEC3000F26C2 /* Search Maps Button Extension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5C8406C52B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps Button Extension" */;
+			buildConfigurationList = 5C8406C52B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps Button Extension" */;
 			buildPhases = (
 				5C8406A52B99CEC3000F26C2 /* Sources */,
 				5C8406A62B99CEC3000F26C2 /* Frameworks */,
@@ -254,9 +254,9 @@
 			);
 			dependencies = (
 			);
-			name = "Google Search Maps Button Extension";
+			name = "Search Maps Button Extension";
 			productName = "Google Search Maps Button Extension";
-			productReference = 5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */;
+			productReference = 5C8406A92B99CEC3000F26C2 /* Search Maps Button Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -285,7 +285,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5C8406722B99CEC1000F26C2 /* Build configuration list for PBXProject "Google Search Maps Button" */;
+			buildConfigurationList = 5C8406722B99CEC1000F26C2 /* Build configuration list for PBXProject "Search Maps Button" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -298,10 +298,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5C8406762B99CEC1000F26C2 /* Google Search Maps Button */,
-				5C8406922B99CEC3000F26C2 /* Google Search Maps ButtonTests */,
-				5C84069C2B99CEC3000F26C2 /* Google Search Maps ButtonUITests */,
-				5C8406A82B99CEC3000F26C2 /* Google Search Maps Button Extension */,
+				5C8406762B99CEC1000F26C2 /* Search Maps Button */,
+				5C8406922B99CEC3000F26C2 /* Search Maps ButtonTests */,
+				5C84069C2B99CEC3000F26C2 /* Search Maps ButtonUITests */,
+				5C8406A82B99CEC3000F26C2 /* Search Maps Button Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -384,17 +384,17 @@
 /* Begin PBXTargetDependency section */
 		5C8406952B99CEC3000F26C2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5C8406762B99CEC1000F26C2 /* Google Search Maps Button */;
+			target = 5C8406762B99CEC1000F26C2 /* Search Maps Button */;
 			targetProxy = 5C8406942B99CEC3000F26C2 /* PBXContainerItemProxy */;
 		};
 		5C84069F2B99CEC3000F26C2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5C8406762B99CEC1000F26C2 /* Google Search Maps Button */;
+			target = 5C8406762B99CEC1000F26C2 /* Search Maps Button */;
 			targetProxy = 5C84069E2B99CEC3000F26C2 /* PBXContainerItemProxy */;
 		};
 		5C8406AC2B99CEC3000F26C2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5C8406A82B99CEC3000F26C2 /* Google Search Maps Button Extension */;
+			target = 5C8406A82B99CEC3000F26C2 /* Search Maps Button Extension */;
 			targetProxy = 5C8406AB2B99CEC3000F26C2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -622,7 +622,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -659,7 +659,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -688,7 +688,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Google Search Maps Button.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Google Search Maps Button";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Search Maps Button.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Search Maps Button";
 			};
 			name = Debug;
 		};
@@ -707,7 +707,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Google Search Maps Button.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Google Search Maps Button";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Search Maps Button.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Search Maps Button";
 			};
 			name = Release;
 		};
@@ -748,7 +748,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5C8406722B99CEC1000F26C2 /* Build configuration list for PBXProject "Google Search Maps Button" */ = {
+		5C8406722B99CEC1000F26C2 /* Build configuration list for PBXProject "Search Maps Button" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5C8406C32B99CEC3000F26C2 /* Debug */,
@@ -757,7 +757,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5C8406C52B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps Button Extension" */ = {
+		5C8406C52B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps Button Extension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5C8406C62B99CEC3000F26C2 /* Debug */,
@@ -766,7 +766,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5C8406C92B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps Button" */ = {
+		5C8406C92B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps Button" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5C8406CA2B99CEC3000F26C2 /* Debug */,
@@ -775,7 +775,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5C8406CC2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps ButtonTests" */ = {
+		5C8406CC2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps ButtonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5C8406CD2B99CEC3000F26C2 /* Debug */,
@@ -784,7 +784,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5C8406CF2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Google Search Maps ButtonUITests" */ = {
+		5C8406CF2B99CEC3000F26C2 /* Build configuration list for PBXNativeTarget "Search Maps ButtonUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5C8406D02B99CEC3000F26C2 /* Debug */,

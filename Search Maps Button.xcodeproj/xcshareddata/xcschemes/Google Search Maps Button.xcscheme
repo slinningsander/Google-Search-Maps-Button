@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5C8406762B99CEC1000F26C2"
-               BuildableName = "Google Search Maps Button.app"
-               BlueprintName = "Google Search Maps Button"
-               ReferencedContainer = "container:Google Search Maps Button.xcodeproj">
+               BuildableName = "Search Maps Button.app"
+               BlueprintName = "Search Maps Button"
+               ReferencedContainer = "container:Search Maps Button.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,9 +36,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5C8406922B99CEC3000F26C2"
-               BuildableName = "Google Search Maps ButtonTests.xctest"
-               BlueprintName = "Google Search Maps ButtonTests"
-               ReferencedContainer = "container:Google Search Maps Button.xcodeproj">
+               BuildableName = "Search Maps ButtonTests.xctest"
+               BlueprintName = "Search Maps ButtonTests"
+               ReferencedContainer = "container:Search Maps Button.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5C84069C2B99CEC3000F26C2"
-               BuildableName = "Google Search Maps ButtonUITests.xctest"
-               BlueprintName = "Google Search Maps ButtonUITests"
-               ReferencedContainer = "container:Google Search Maps Button.xcodeproj">
+               BuildableName = "Search Maps ButtonUITests.xctest"
+               BlueprintName = "Search Maps ButtonUITests"
+               ReferencedContainer = "container:Search Maps Button.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5C8406762B99CEC1000F26C2"
-            BuildableName = "Google Search Maps Button.app"
-            BlueprintName = "Google Search Maps Button"
-            ReferencedContainer = "container:Google Search Maps Button.xcodeproj">
+            BuildableName = "Search Maps Button.app"
+            BlueprintName = "Search Maps Button"
+            ReferencedContainer = "container:Search Maps Button.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -86,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5C8406762B99CEC1000F26C2"
-            BuildableName = "Google Search Maps Button.app"
-            BlueprintName = "Google Search Maps Button"
-            ReferencedContainer = "container:Google Search Maps Button.xcodeproj">
+            BuildableName = "Search Maps Button.app"
+            BlueprintName = "Search Maps Button"
+            ReferencedContainer = "container:Search Maps Button.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
