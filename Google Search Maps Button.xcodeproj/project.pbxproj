@@ -15,15 +15,11 @@
 		5C8406872B99CEC1000F26C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406862B99CEC1000F26C2 /* ViewController.swift */; };
 		5C84068A2B99CEC1000F26C2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406892B99CEC1000F26C2 /* Base */; };
 		5C84068C2B99CEC2000F26C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C84068B2B99CEC2000F26C2 /* Assets.xcassets */; };
-		5C8406982B99CEC3000F26C2 /* Google_Search_Maps_ButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406972B99CEC3000F26C2 /* Google_Search_Maps_ButtonTests.swift */; };
-		5C8406A22B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406A12B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITests.swift */; };
-		5C8406A42B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406A32B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITestsLaunchTests.swift */; };
 		5C8406AA2B99CEC3000F26C2 /* Google Search Maps Button Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		5C8406AF2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8406AE2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift */; };
 		5C8406B22B99CEC3000F26C2 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B12B99CEC3000F26C2 /* _locales */; };
 		5C8406B42B99CEC3000F26C2 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B32B99CEC3000F26C2 /* images */; };
 		5C8406B62B99CEC3000F26C2 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B52B99CEC3000F26C2 /* manifest.json */; };
-		5C8406B82B99CEC3000F26C2 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B72B99CEC3000F26C2 /* background.js */; };
 		5C8406BA2B99CEC3000F26C2 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = 5C8406B92B99CEC3000F26C2 /* content.js */; };
 /* End PBXBuildFile section */
 
@@ -78,16 +74,12 @@
 		5C84068D2B99CEC2000F26C2 /* Google_Search_Maps_Button.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Google_Search_Maps_Button.entitlements; sourceTree = "<group>"; };
 		5C84068E2B99CEC2000F26C2 /* Google Search Maps Button.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Google Search Maps Button.entitlements"; sourceTree = "<group>"; };
 		5C8406932B99CEC3000F26C2 /* Google Search Maps ButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Google Search Maps ButtonTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5C8406972B99CEC3000F26C2 /* Google_Search_Maps_ButtonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Google_Search_Maps_ButtonTests.swift; sourceTree = "<group>"; };
 		5C84069D2B99CEC3000F26C2 /* Google Search Maps ButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Google Search Maps ButtonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5C8406A12B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Google_Search_Maps_ButtonUITests.swift; sourceTree = "<group>"; };
-		5C8406A32B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Google_Search_Maps_ButtonUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5C8406A92B99CEC3000F26C2 /* Google Search Maps Button Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Google Search Maps Button Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C8406AE2B99CEC3000F26C2 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
 		5C8406B12B99CEC3000F26C2 /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _locales; sourceTree = "<group>"; };
 		5C8406B32B99CEC3000F26C2 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		5C8406B52B99CEC3000F26C2 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
-		5C8406B72B99CEC3000F26C2 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
 		5C8406B92B99CEC3000F26C2 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
 		5C8406C12B99CEC3000F26C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C8406C22B99CEC3000F26C2 /* Google_Search_Maps_Button_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Google_Search_Maps_Button_Extension.entitlements; sourceTree = "<group>"; };
@@ -129,8 +121,6 @@
 			isa = PBXGroup;
 			children = (
 				5C8406792B99CEC1000F26C2 /* Google Search Maps Button */,
-				5C8406962B99CEC3000F26C2 /* Google Search Maps ButtonTests */,
-				5C8406A02B99CEC3000F26C2 /* Google Search Maps ButtonUITests */,
 				5C8406AD2B99CEC3000F26C2 /* Google Search Maps Button Extension */,
 				5C8406782B99CEC1000F26C2 /* Products */,
 			);
@@ -172,23 +162,6 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		5C8406962B99CEC3000F26C2 /* Google Search Maps ButtonTests */ = {
-			isa = PBXGroup;
-			children = (
-				5C8406972B99CEC3000F26C2 /* Google_Search_Maps_ButtonTests.swift */,
-			);
-			path = "Google Search Maps ButtonTests";
-			sourceTree = "<group>";
-		};
-		5C8406A02B99CEC3000F26C2 /* Google Search Maps ButtonUITests */ = {
-			isa = PBXGroup;
-			children = (
-				5C8406A12B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITests.swift */,
-				5C8406A32B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITestsLaunchTests.swift */,
-			);
-			path = "Google Search Maps ButtonUITests";
-			sourceTree = "<group>";
-		};
 		5C8406AD2B99CEC3000F26C2 /* Google Search Maps Button Extension */ = {
 			isa = PBXGroup;
 			children = (
@@ -206,7 +179,6 @@
 				5C8406B12B99CEC3000F26C2 /* _locales */,
 				5C8406B32B99CEC3000F26C2 /* images */,
 				5C8406B52B99CEC3000F26C2 /* manifest.json */,
-				5C8406B72B99CEC3000F26C2 /* background.js */,
 				5C8406B92B99CEC3000F26C2 /* content.js */,
 			);
 			path = Resources;
@@ -366,7 +338,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C8406B82B99CEC3000F26C2 /* background.js in Resources */,
 				5C8406B42B99CEC3000F26C2 /* images in Resources */,
 				5C8406B62B99CEC3000F26C2 /* manifest.json in Resources */,
 				5C8406B22B99CEC3000F26C2 /* _locales in Resources */,
@@ -390,7 +361,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C8406982B99CEC3000F26C2 /* Google_Search_Maps_ButtonTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,8 +368,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C8406A42B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITestsLaunchTests.swift in Sources */,
-				5C8406A22B99CEC3000F26C2 /* Google_Search_Maps_ButtonUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -644,7 +612,8 @@
 				DEVELOPMENT_TEAM = AST6U766P8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Google Search Maps Button";
+				INFOPLIST_KEY_CFBundleDisplayName = "Search Maps Button";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -680,7 +649,8 @@
 				DEVELOPMENT_TEAM = AST6U766P8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Google Search Maps Button";
+				INFOPLIST_KEY_CFBundleDisplayName = "Search Maps Button";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
